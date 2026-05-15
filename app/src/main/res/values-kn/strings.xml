@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಗ್ರಾಮ-ಕಲ್ಯಾಣ ಸ್ಪೋರ್ಟ್ಸ್ (Grama Kalyana Sports)</string>
+    <string name="login_admin">ಸ್ಕೋರರ್ ಆಗಿ ಲಾಗಿನ್ ಮಾಡಿ (admin)</string>
+    <string name="view_scores">ಲೈವ್ ಸ್ಕೋರ್ ನೋಡಿ (fan)</string>
+</resources>

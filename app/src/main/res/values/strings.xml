@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grama-Kalyana Sports</string>
+    <string name="login_admin">Login as Scorer (admin)</string>
+    <string name="view_scores">View Live Scores (fan)</string>
+</resources>
